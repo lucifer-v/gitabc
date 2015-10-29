@@ -6,4 +6,3 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 no fast forward
 I'am in branch 'dev'
-185983935@qq.com update
